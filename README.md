@@ -1,4 +1,5 @@
-# A simple Restaurant Website
+# Ofwono Diners
+### A simple Restaurant Website
 ### My first Git Hub Repo.....Hahaa
 i clearly Remember being so excited about this Repo when I just plug it to Git Hub using GitHub Desktop,,,,<br>
 I even Thought a Company was Gonna Higher Me...Hahaaa..
