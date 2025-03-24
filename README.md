@@ -6,3 +6,5 @@ I even Thought a Company was Gonna Higher Me...Hahaaa..
 ## About This Website.
 This is a simple Website mad with Html & CSS.<br>
 Clone it,, Its quite Interesting for evry 1st Coder.
+
+# Adede Django to the Backend
